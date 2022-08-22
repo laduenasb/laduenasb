@@ -9,6 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h3>Mision Tic 2022</h3>
+
 <!--
 **luisdue3/luisdue3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
