@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/luisdue3">Luis Dueñas</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/laduenasb">Luis Dueñas</a>'s Profile 👋</h1>
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=008000&size=25&lines=I'm+a+Frontend+developer+!;I'm+a+physicist+!;Never+stop+learning+!" /></a>
@@ -68,16 +68,16 @@ As a Junior Frontend Developer, I am passionate about creating modern and user-f
 ## Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 <div align="center">
    <a href="https://github.com/luidue3/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=luisdue3&show_icons=true&include_all_commits=true&theme=onedark"                 alt="Badri's github stats" />
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=laduenasb&show_icons=true&include_all_commits=true&theme=onedark"                 alt="Badri's github stats" />
    </a>
    <br />
    <br />
-   <a href="https://github.com/luisdue3/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luisdue3&layout=compact&theme=onedark" />
+   <a href="https://github.com/laduenasb/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=laduenasb&layout=compact&theme=onedark" />
    </a>
    <br />
    <br />
    <p align="center">
-     <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=luisdue3&theme=onedark" alt="MrBlueBird2" />
+     <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=laduenasb&theme=onedark" alt="MrBlueBird2" />
    </p>
 <div/>
