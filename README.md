@@ -68,7 +68,7 @@ As a Junior Frontend Developer, I am passionate about creating modern and user-f
 ## Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 <div align="center">
    <a href="https://github.com/laduenasb/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=laduenasb&show_icons=true&include_all_commits=true&theme=onedark"                 alt="Badri's github stats" />
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=laduenasb&show_icons=true&include_all_commits=true&theme=onedark"                 alt="laduenasb's github stats" />
    </a>
    <br />
    <br />
@@ -78,6 +78,6 @@ As a Junior Frontend Developer, I am passionate about creating modern and user-f
    <br />
    <br />
    <p align="center">
-     <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=laduenasb&theme=onedark" alt="MrBlueBird2" />
+     <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=laduenasb&theme=onedark" alt="Mrladuenasb" />
    </p>
 <div/>
