@@ -73,7 +73,7 @@ As a Junior Frontend Developer, I am passionate about creating modern and user-f
    <br />
    <br />
    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=laduenasb&layout=compact&theme=chartreuse-dark&langs_count=10" />
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=laduenasb&layout=compact&theme=chartreuse-dark&langs_count=10&hide=python,fortran,php" />
    </a>
    <br />
    <br />
