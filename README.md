@@ -73,7 +73,7 @@ As a data scientist with expertise in Python, I bring a solid foundation in stat
    <br />
    <br />
    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=laduenasb&layout=compact&theme=chartreuse-dark&langs_count=10&hide=fortran,php" />
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=laduenasb&layout=compact&theme=chartreuse-dark&langs_count=10&hide=fortran,python,php" />
    </a>
    <br />
    <br />
