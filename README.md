@@ -1,13 +1,13 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/laduenasb">Luis Dueñas</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/laduenasb">Alejandro Dueñas</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=008000&size=30&lines=I'm+a+physicist+!;Never+stop+learning+!" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=008000&size=30&lines=I'm+a+backend+developer+!;Never+stop+learning+!" /></a>
 </p>
 
 <!-- <img width="120px" align="right" src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"> -->
 
-As a Junior Frontend Developer, I am passionate about creating modern and user-friendly websites and web applications. I have a solid understanding of HTML, CSS, and JavaScript, and I am eager to continue building my skills in these areas. I am familiar with frameworks such as React and Spring Boot, and have experience working with Git and other tools commonly used in software development. My goal is to gain hands-on experience in the field while working collaboratively with a team of experienced developers to create innovative and high-quality products. I am excited to learn and grow as a developer and am committed to delivering exceptional results.
+As a Junior Backend Developer, I am passionate about creating modern and user-friendly websites and web applications. I have a solid understanding of HTML, CSS, and JavaScript, and I am eager to continue building my skills in these areas. I am familiar with frameworks such as React and Spring Boot, and have experience working with Git and other tools commonly used in software development. My goal is to gain hands-on experience in the field while working collaboratively with a team of experienced developers to create innovative and high-quality products. I am excited to learn and grow as a developer and am committed to delivering exceptional results.
 
 ---
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
